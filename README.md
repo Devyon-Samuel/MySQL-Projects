@@ -22,3 +22,15 @@ Welcome to my projects ;)
 ![image](https://github.com/user-attachments/assets/5733082a-330c-4166-b150-dd72833ddd8b)
 
 *Using the "ORDER BY" Syntax I was able to find the top 10 most populated cities* 
+
+![image](https://github.com/user-attachments/assets/15c6cf97-165b-497c-9adb-18b963040ca6)
+
+*I tasked myself with identifying cities from the database with populations exceeding 2 million*
+
+![image](https://github.com/user-attachments/assets/9be56b9c-a608-48b2-be51-1e97405aa7de)
+
+*Using the "BETWEEN" & "AND" Syntax i was able to identify cities with populations ranging between 500,000 and 1 million*
+
+![image](https://github.com/user-attachments/assets/d6249150-d1a9-42bb-80b0-c1828222cddd)
+
+*With discovery of the "ORDER BY" Syntax I was able to create an ascending list of all the countries in an alphabetic order*
